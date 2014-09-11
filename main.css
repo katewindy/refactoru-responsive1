@@ -1,0 +1,44 @@
+
+/* http://paletton.com/#uid=52K0u0kllll9eE1fisbroev-l7F PALLETTE*/
+
+body {
+	background: #E1f5ae;
+}
+
+a {
+	text-decoration: none;
+	color: #0b493f;
+}
+.bgcontainer {
+		height: 100%;
+	width: 100%;
+}
+
+.maincontainer {
+	position: relative;
+	/*max-*/
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #ECF0F1
+}
+
+.navbar {
+	background: #76bd63;
+	list-style-type: none;
+	display:inline-block;
+	margin: 0 0;
+	width: 100%;
+	height: 2em;
+	padding: 0;
+
+}
+
+.navbar li {
+	display: inline-block;
+	margin: 0px;
+}
+
+.maincontent {
+	
+}
